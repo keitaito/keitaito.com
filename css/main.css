@@ -1,0 +1,59 @@
+/*
+ * Main.css
+ */
+
+
+
+/*
+ * Globals
+ */
+
+a,
+a:focus,
+a:hover {
+  color: #F78181;
+}
+
+
+
+/*
+ * Base structure
+ */
+
+body {
+  background-color: #fff;
+  margin-top: 55px;
+}
+
+.nav li:hover {
+  background-color: #eee;
+}
+
+h1 {
+  font-size: 50px;
+}
+.glyphicon-fire {
+  color: #F78181;
+}
+
+#header,
+#products,
+#profile,
+#contacts {
+  margin-bottom: 50px;
+}
+
+#titleHigh5 {
+  text-align: center;
+  margin-top: 0px;
+}
+
+
+
+#description {
+  margin-top: 40px;
+}
+
+#backButton a {
+  color: white;
+}
